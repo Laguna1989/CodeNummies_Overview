@@ -28,10 +28,6 @@ applications, that will provide nice results.
 
 # Getting Started
 
-## The programming language: C++
-
-The Nummies are provided in C++.
-
 ## Download a Nummy
 
 You can download a Nummy either via the `Code` -> `Download ZIP` button on github, or
