@@ -47,7 +47,7 @@ the [list of generators](https://cmake.org/cmake/help/latest/manual/cmake-genera
 
 ## IDEs
 
-* [Windows: Microsoft Visual Studio community edition](https://visualstudio.microsoft.com/de/vs/community/))
+* [Windows: Microsoft Visual Studio community edition](https://visualstudio.microsoft.com/de/vs/community/)
 * [Windows, Mac, Linux: Clion](https://www.jetbrains.com/de-de/clion/download/#section=windows)
 * [Windows, Mac, Linux: Visual Studio code](https://code.visualstudio.com/)
 * [Windows, Mac, Linux: Code::Blocks](https://www.codeblocks.org/downloads/binaries/)
@@ -64,7 +64,7 @@ The name is a mashup of "Code Kata" and "Numerics".
 
 ## Why are the Code Nummies in C++?
 
-C++ is a very powerful, multi-paradign, portable language. Knowing your way around C++ is a very handy skill.
+C++ is a very powerful, multi-paradigm, portable language. Knowing your way around C++ is a very handy skill.
 
 ## I still want to solve a Nummy in [Language of choice]!
 
