@@ -10,14 +10,15 @@ craft a solution on my own. If you have similar experience, Code Nummies will be
 proper hands-on experience and craft a solution on your own.
 
 To smooth out the experience, the Code Nummies will offer a set of instructions and provide us with everything to get
-started. Tests are provided and will guide the implementation. Most Nummies also contain some
-applications, that will provide nice results.
+started. Tests are provided and will guide the implementation. Most Nummies also contain some applications, that will
+provide nice results.
 
 # List of Code Nummies
 
 ## Numerics
 
 - [Root finding via Bisection](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
+- [Root finding via Newton-Raphson](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
 - [The RANDU random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_Randu)
 - [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
 - [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
@@ -27,10 +28,6 @@ applications, that will provide nice results.
 - [Smart pointers](https://github.com/Laguna1989/CodeKata_Cpp_SmartPointers)
 
 # Getting Started
-
-## The programming language: C++
-
-The Nummies are provided in C++.
 
 ## Download a Nummy
 
@@ -55,3 +52,23 @@ the [list of generators](https://cmake.org/cmake/help/latest/manual/cmake-genera
 * [Windows, Mac, Linux: Visual Studio code](https://code.visualstudio.com/)
 * [Windows, Mac, Linux: Code::Blocks](https://www.codeblocks.org/downloads/binaries/)
 
+# FAQ
+
+## Help, I'm stuck. How do I solve this?
+
+All Code Nummies have a dedicated branch in git, called `solution`, where you can peek for a solution.
+
+## What does "Code Nummy" mean?
+
+The name is a mashup of "Code Kata" and "Numerics".
+
+## Why are the Code Nummies in C++?
+
+C++ is a very powerful, multi-paradign, portable language. Knowing your way around C++ is a very handy skill.
+
+## I still want to solve a Nummy in [Language of choice]!
+
+There is nothing that will stop you to tackle the problem in matlab, python, cobol, or any other language/tool of your
+choice. The tests are created with readability in mind, so you should be able to adapt them easily in your preferred
+language. Of course, language syntax and some semantic details will be different. However, the transition should be
+straightforward.  
