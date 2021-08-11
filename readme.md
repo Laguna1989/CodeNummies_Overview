@@ -17,8 +17,10 @@ provide nice results.
 
 ## Numerics
 
-- [Root finding via Bisection](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
-- [Root finding via Newton-Raphson](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
+- Numerical root finding
+  - [Root finding via the Bisection method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
+  - [Root finding via the Newton-Raphson method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
+  - [Root finding via the Secant method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithSecant)
 - [The RANDU random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_Randu)
 - [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
 - [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
@@ -64,11 +66,12 @@ The name is a mashup of "Code Kata" and "Numerics".
 
 ## Why are the Code Nummies in C++?
 
-C++ is a very powerful, multi-paradigm, portable language. Knowing your way around C++ is a very handy skill.
+C++ is a very powerful, multi-paradigm, portable language. Knowing your way around C++ is a very handy skill. Also, most
+large scale numerical simulations which run on clusters are written in C++.
 
 ## I still want to solve a Nummy in [Language of choice]!
 
-There is nothing that will stop you to tackle the problem in matlab, python, cobol, or any other language/tool of your
-choice. The tests are created with readability in mind, so you should be able to adapt them easily in your preferred
-language. Of course, language syntax and some semantic details will be different. However, the transition should be
-straightforward.  
+There is nothing that will stop you to tackle the problem in matlab, python, cobol, brainfuck2d or any other
+language/tool of your choice. The tests are created with readability in mind, so you should be able to adapt them easily
+in your preferred language. Of course, language syntax and some semantic details will be different. However, the
+transition should be straightforward.  
