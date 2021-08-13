@@ -18,10 +18,12 @@ provide nice results.
 ## Numerics
 
 - Numerical root finding
-  - [Root finding via the Bisection method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
-  - [Root finding via the Newton-Raphson method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
-  - [Root finding via the Secant method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithSecant)
-- [The RANDU random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_Randu)
+    - [Root finding via the Bisection method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
+    - [Root finding via the Newton-Raphson method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
+    - [Root finding via the Secant method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithSecant)
+- Pseudo Random Number Generators
+    - [The RANDU random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_Randu)
+    - [The Middle Square random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_RandomNumbersMiddleSquare)
 - [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
 - [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
 
