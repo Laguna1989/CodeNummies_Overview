@@ -83,7 +83,7 @@ C++ is a very powerful, multi-paradigm, portable programming language. Knowing y
 skill. Also, most large scale numerical simulations which run on clusters are written in C++.
 
 Python is an easy to use and portable programming language. It offers numerous packages for various applications. Thus
-it is easy to see results quickyl.
+it is easy to see results quickly and an awesome way to get started.
 
 ## I still want to solve a Nummy in [Language of choice]!
 
