@@ -27,7 +27,9 @@ provide nice results.
     - [The Middle Square random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_RandomNumbersMiddleSquare)
 - [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
 - [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
-- [Travelling Salesman with greedy algorithm](https://github.com/Laguna1989/CodeKata_Numerics_TravellingSalesman_Greedy)
+- The Travelling Salesman Problem
+    - [TSP I: Greedy algorithm](https://github.com/Laguna1989/CodeKata_Numerics_TravellingSalesman_Greedy)
+    - [TSP II: Simulated annealing](https://github.com/Laguna1989/CodeKata_Numerics_TravellingSalesman_SimulatedAnnealing)
 
 ## C++ Topics
 
