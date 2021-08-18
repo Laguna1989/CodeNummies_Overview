@@ -1,13 +1,14 @@
 # Code Nummies
 
-Code Nummies are bite sized challenges about a specific topic. Every Nummy will explain that very topic and provide
-instructions on how to tackle the problem as well as some code to get you kickstarted. A Code Nummy will take around 30
-minutes to complete. Most Code Nummies are provided in Python and C++.
+Code Nummies are bite sized challenges, which focus on a specific topic from numerics, computational pyhsics or computer
+science. Every Nummy will explain that very topic and provide instructions on how to tackle the problem as well as some
+code to get you kickstarted. A Code Nummy will take around 30 minutes to complete. Most Code Nummies are provided in
+Python and C++.
 
 When learning passively, it happens to me more than often that I say "yes, I would have done it in a similar way". Most
 of the time, I am missing out on the crucial parts. The tricky questions will only pop up, once I get my hands dirty and
-craft a solution on my own. If you have similar experience, Code Nummies will be very helpful to you. The idea is to get
-proper hands-on experience and craft a solution on your own.
+craft the solution on my own. If you have similar experience, Code Nummies will be very helpful to you. The idea is to
+get proper hands-on experience and craft the solution on your own.
 
 To smooth out the experience, the Code Nummies will offer a set of instructions and provide us with everything to get
 started. Tests are provided and will guide the implementation. Most Nummies also contain some applications, that will
@@ -39,12 +40,12 @@ provide nice results.
 You can download a Nummy either via the `Code` -> `Download ZIP` button on github, or
 via [git clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository).
 
-Most Code Nummies provide a Python and C++ project, so you can choose in which language you want to take the problem.
+Most Code Nummies provide a Python and C++ project. You can choose in which language you want to take the problem.
 
 ## Python Setup
 
 For Python it is recommended to use [PyCharm](https://www.jetbrains.com/de-de/pycharm/). Simply open the `python` folder
-in PyCharm, set the src folder to source, the tests folder to tests and create a pytest target based on the tests
+in PyCharm, set the `src` folder to source, the `tests` folder to tests and create a pytest target based on the tests
 folder.
 
 ## C++ Setup
@@ -90,4 +91,11 @@ it is easy to see results quickly and an awesome way to get started.
 There is nothing that will stop you to tackle the problem in matlab, cobol, brainfuck2d or any other language/tool of
 your choice. The tests are created with readability in mind, so you should be able to adapt them easily in your
 preferred language. Of course, language syntax and some semantic details will be different. However, the transition
-should be straightforward.  
+should be straightforward.
+
+## I found a typo/bug/issue in a Code Nummy!
+
+Nice. Thank you for taking a detailed look at the provided code and instructions. Please create an issue in the
+respective repository. If you already know a fix for the issue, please create
+a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+. I am happy to improve the Nummies whenever possible.
