@@ -1,18 +1,9 @@
 # Code Nummies
 
-Code Nummies are bite sized challenges, which focus on a specific topic from numerics, computational pyhsics or computer
-science. Every Nummy will explain that very topic and provide instructions on how to tackle the problem as well as some
-code to get you kickstarted. A Code Nummy will take around 30 minutes to complete. Most Code Nummies are provided in
-Python and C++.
-
-When learning passively, it happens to me more than often that I say "yes, I would have done it in a similar way". Most
-of the time, I am missing out on the crucial parts. The tricky questions will only pop up, once I get my hands dirty and
-craft the solution on my own. If you have similar experience, Code Nummies will be very helpful to you. The idea is to
-get proper hands-on experience and craft the solution on your own.
-
-To smooth out the experience, the Code Nummies will offer a set of instructions and provide us with everything to get
-started. Tests are provided and will guide the implementation. Most Nummies also contain some applications, that will
-provide nice results.
+Code Nummies are bite sized programming challenges, which focus on a specific topic from numerics, computational pyhsics
+or computer science. Every Nummy will explain that very topic and provide instructions on how to tackle the problem as
+well as some code to get you kickstarted. This includes a set of tests (to verify your solution). Most Code Nummies are
+provided in Python and C++.
 
 # List of Code Nummies
 
@@ -47,9 +38,14 @@ Most Code Nummies provide a Python and C++ project. You can choose in which lang
 
 ## Python Setup
 
-For Python it is recommended to use [PyCharm](https://www.jetbrains.com/de-de/pycharm/). Simply open the `python` folder
-in PyCharm, set the `src` folder to source, the `tests` folder to tests and create a pytest target based on the tests
-folder.
+For Python [PyCharm](https://www.jetbrains.com/de-de/pycharm/) is recommended as an IDE.
+
+* Open the `python` folder in PyCharm.
+* Go to settings - `Project: Python` - `Project Structure`. Mark the `src` folder as source, the `tests` folder as
+  tests. Close settings.
+* In the top right, click on `Edit configuration`. Click on the `+` to create a pytest target. Select `script path` and
+  select the `python/tests` folder.
+* Press `ctrl + F5` to execute the tests.
 
 ## C++ Setup
 
@@ -73,7 +69,18 @@ the [list of generators](https://cmake.org/cmake/help/latest/manual/cmake-genera
 
 # FAQ
 
-## Help, I'm stuck. How do I solve this?
+## Why Code Nummies?
+
+When learning passively, it happens to me more than often that I say "yes, I would have done it in a similar way". Most
+of the time, I am missing out on the crucial parts. The tricky questions will only pop up, once I get my hands dirty and
+craft the solution on my own. If you have similar experience, Code Nummies will be very helpful to you. The idea is to
+get proper hands-on experience and craft the solution on your own.
+
+To smooth out the experience, the Code Nummies will offer a set of instructions and provide everything to get started.
+Tests are included and will guide the implementation. Most Nummies also contain some applications, which will provide
+nice results.
+
+## Help, I'm stuck. How do I solve this specific problem?
 
 All Code Nummies have a dedicated branch in git, called `solution`, where you can peek for a solution.
 
@@ -81,7 +88,24 @@ All Code Nummies have a dedicated branch in git, called `solution`, where you ca
 
 The name is a mashup of "Code Kata" and "Numerics".
 
-## Why are the Code Nummies provided only in C++ and Python?
+## How long will it take me to solve a Code Nummy?
+
+A Code Nummy will take around 30 minutes to complete. Of course individual completion time will vary, depending on the
+Nummy difficulty and personal experience. If it takes you longer than an hour, take a step back, get some time off the
+screen. Most likely you were stuck in a dead end.
+
+## I have literally no programming experience. What shall I do to cope with this cryptic gibberish?
+
+There are awesome tutorials available on how to get started with (scientific) programming. My personal advice is to just
+get started and get your hands dirty. While the Code Nummies relief you of the burden of thinking about most of the
+frameworks and test cases, some fundamental understanding of how programming works is unfortunately required. But I am
+sure that you can easily get up to speed.
+
+If you have never touched Python nor C++, I suggest to start with Python as it makes starting from scratch easier.
+Regardless of the language, you do not have to understand all the internal details, as long as you have a broad
+understanding of the algorithm. We are doing math and numerics here, and not strict software development. :)
+
+## Why are the Code Nummies provided in C++ and Python?
 
 C++ is a very powerful, multi-paradigm, portable programming language. Knowing your way around C++ is a very handy
 skill. Also, most large scale numerical simulations which run on clusters are written in C++.
@@ -96,9 +120,12 @@ your choice. The tests are created with readability in mind, so you should be ab
 preferred language. Of course, language syntax and some semantic details will be different. However, the transition
 should be straightforward.
 
+If you have a solution in a specific tool, please consider creating a Pull Request. Others might be interested as well.
+Additionally, it would be great to see the Code Nummies grow by the community.
+
 ## I found a typo/bug/issue in a Code Nummy!
 
-Nice. Thank you for taking a detailed look at the provided code and instructions. Please create an issue in the
-respective repository. If you already know a fix for the issue, please create
+Thank you for taking a detailed look at the provided code and instructions. Please create an issue in the respective
+repository. If you already know a fix for the issue, please create
 a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 . I am happy to improve the Nummies whenever possible.
