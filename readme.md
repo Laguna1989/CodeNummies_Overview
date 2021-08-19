@@ -18,6 +18,9 @@ provide nice results.
 
 ## Numerics
 
+- [Correlation coefficient](https://github.com/Laguna1989/CodeKata_Numerics_CorrelationCoefficient)
+- [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
+- [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
 - Numerical root finding
     - [Root finding via the Bisection method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
     - [Root finding via the Newton-Raphson method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
@@ -25,8 +28,6 @@ provide nice results.
 - Pseudo Random Number Generators
     - [The RANDU random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_Randu)
     - [The Middle Square random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_RandomNumbersMiddleSquare)
-- [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
-- [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
 - The Travelling Salesman Problem
     - [TSP I: Greedy algorithm](https://github.com/Laguna1989/CodeKata_Numerics_TravellingSalesman_Greedy)
     - [TSP II: Simulated annealing](https://github.com/Laguna1989/CodeKata_Numerics_TravellingSalesman_SimulatedAnnealing)
