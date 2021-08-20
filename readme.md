@@ -5,6 +5,8 @@ or computer science. Every Nummy will explain that very topic and provide instru
 well as some code to get you kickstarted. This includes a set of tests (to verify your solution). Most Code Nummies are
 provided in Python and C++.
 
+This is my entry for the #SoME1 [Summer of Math 2021](https://www.3blue1brown.com/blog/some1).
+
 # List of Code Nummies
 
 ## Numerics
