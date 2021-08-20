@@ -14,6 +14,7 @@ This is my entry for the #SoME1 [Summer of Math 2021](https://www.3blue1brown.co
 - [Correlation coefficient](https://github.com/Laguna1989/CodeKata_Numerics_CorrelationCoefficient)
 - [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
 - [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
+- [Swapping Variables](https://github.com/Laguna1989/CodeNummy_SwappingVariables)
 - Numerical root finding
     - [Root finding via the Bisection method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
     - [Root finding via the Newton-Raphson method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
