@@ -11,20 +11,20 @@ This is my entry for the #SoME1 [Summer of Math 2021](https://www.3blue1brown.co
 
 ## Numerics
 
-- [Correlation coefficient](https://github.com/Laguna1989/CodeKata_Numerics_CorrelationCoefficient)
-- [Linear Interpolation](https://github.com/Laguna1989/CodeKata_Numerics_LinearInterpolation)
-- [Explicit Euler Integration](https://github.com/Laguna1989/CodeKata_Numerics_Euler)
+- [Correlation coefficient](https://github.com/Laguna1989/CodeNummy_CorrelationCoefficient)
+- [Linear Interpolation](https://github.com/Laguna1989/CodeNummy_LinearInterpolation)
+- [Explicit Euler Integration](https://github.com/Laguna1989/CodeNummy_ODE_EulerExplicit)
 - [Swapping Variables](https://github.com/Laguna1989/CodeNummy_SwappingVariables)
 - Numerical root finding
-    - [Root finding via the Bisection method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithBisection)
-    - [Root finding via the Newton-Raphson method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithNewtonRaphson)
-    - [Root finding via the Secant method](https://github.com/Laguna1989/CodeKata_Numerics_RootFindingWithSecant)
+    - [Root finding via the Bisection method](https://github.com/Laguna1989/CodeNummy_RootFinding_Bisection)
+    - [Root finding via the Newton-Raphson method](https://github.com/Laguna1989/CodeNummy_RootFinding_NewtonRaphson)
+    - [Root finding via the Secant method](https://github.com/Laguna1989/CodeNummy_RootFinding_Secant)
 - Pseudo Random Number Generators
-    - [The RANDU random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_Randu)
-    - [The Middle Square random number generator and why it sucks](https://github.com/Laguna1989/CodeKata_Numerics_RandomNumbersMiddleSquare)
+    - [The RANDU random number generator and why it sucks](https://github.com/Laguna1989/CodeNummy_RNG_Randu)
+    - [The Middle Square random number generator and why it sucks](https://github.com/Laguna1989/CodeNummy_RNG_MiddleSquare)
 - The Travelling Salesman Problem
-    - [TSP I: Greedy algorithm](https://github.com/Laguna1989/CodeKata_Numerics_TravellingSalesman_Greedy)
-    - [TSP II: Simulated annealing](https://github.com/Laguna1989/CodeKata_Numerics_TravellingSalesman_SimulatedAnnealing)
+    - [TSP I: Greedy algorithm](https://github.com/Laguna1989/CodeNummy_TravellingSalesman_Greedy)
+    - [TSP II: Simulated annealing](https://github.com/Laguna1989/CodeNummy_TravellingSalesman_SimulatedAnnealing)
 
 ## C++ Topics
 
