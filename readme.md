@@ -29,6 +29,7 @@ This is my entry for the #SoME1 [Summer of Math 2021](https://www.3blue1brown.co
 ## C++ Topics
 
 - [Smart pointers](https://github.com/Laguna1989/CodeKata_Cpp_SmartPointers)
+- [Design Patterns: Observer](https://github.com/Laguna1989/CodeKata_ObserverPattern)
 
 # Getting Started
 
