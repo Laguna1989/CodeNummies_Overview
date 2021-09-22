@@ -31,6 +31,9 @@ This is my entry for the #SoME1 [Summer of Math 2021](https://www.3blue1brown.co
 - [Smart pointers](https://github.com/Laguna1989/CodeKata_Cpp_SmartPointers)
 - [Design Patterns: Observer](https://github.com/Laguna1989/CodeKata_ObserverPattern)
 
+## Other topics
+- [Github Actions](https://github.com/Laguna1989/CodeNummy_GithubActions)
+
 # Getting Started
 
 ## Download a Nummy
